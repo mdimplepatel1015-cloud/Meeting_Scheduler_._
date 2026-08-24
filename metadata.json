@@ -1,0 +1,6 @@
+{
+  "name": "MeetIQ",
+  "description": "AI Meeting Scheduler & Meeting Intelligence Platform with automated scheduling, smart agendas, real-time transcription, summaries, decision log, action items, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
